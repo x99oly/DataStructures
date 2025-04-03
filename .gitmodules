@@ -1,0 +1,6 @@
+[submodule "structures"]
+	path = structures
+	url = git@github.com:x99oly/DataForge.git
+[submodule "algorithms"]
+	path = algorithms
+	url = git@github.com:x99oly/Algol.git
